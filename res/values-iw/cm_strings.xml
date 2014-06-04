@@ -15,8 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="account_settings_notify_every_message_label">הודע עבור כל הודעה</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="account_settings_notify_every_message_label">התרע עבור כל הודעה</string>
   <string name="account_setup_options_mail_check_frequency_2hour">כל שעתיים</string>
   <string name="account_setup_options_mail_check_frequency_4hour">כל 4 שעות</string>
   <string name="account_setup_options_mail_check_frequency_1day">כל יום</string>
